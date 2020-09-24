@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\bin\Debug\ArrayAsParameter.exe.config
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\bin\Debug\ArrayAsParameter.exe
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\bin\Debug\ArrayAsParameter.pdb
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\obj\Debug\ArrayAsParameter.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\obj\Debug\ArrayAsParameter.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\obj\Debug\ArrayAsParameter.exe
+C:\Users\Andrey\source\repos\ArrayAsParameter\ArrayAsParameter\obj\Debug\ArrayAsParameter.pdb

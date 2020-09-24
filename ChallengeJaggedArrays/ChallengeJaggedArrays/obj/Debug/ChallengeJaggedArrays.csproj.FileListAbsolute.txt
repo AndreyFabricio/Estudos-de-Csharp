@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\bin\Debug\ChallengeJaggedArrays.exe.config
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\bin\Debug\ChallengeJaggedArrays.exe
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\bin\Debug\ChallengeJaggedArrays.pdb
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\obj\Debug\ChallengeJaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\obj\Debug\ChallengeJaggedArrays.exe
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\obj\Debug\ChallengeJaggedArrays.pdb
+C:\Users\Andrey\source\repos\ChallengeJaggedArrays\ChallengeJaggedArrays\obj\Debug\ChallengeJaggedArrays.csprojAssemblyReference.cache
